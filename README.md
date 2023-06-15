@@ -17,7 +17,7 @@ A l’apartat de “Concurs de Castells”, les imatges s’han aconseguit de la
 També s’ha afegit un mapa, a l’apartat de “Contacte”. Dins d’aquest mapa trobem especificats els locals de les quatre colles castelleres, per a facilitar la seva ubicació per als interessats com els turistes o futurs castellers. Per últim també es compta amb 3 viewpoints que representaran la ubicació de les places castelleres on actuaran les 4 colles al conjunt, a les diades especificades a la part de “Diades Castelleres/Actuacions”.
 
 3.	Estructura:
-Dins de la pàgina web podem trobar a la barra superior els següents apartats:
+Dins de la pàgina web podem trobar la seva extructura dins de la barra superior els següents apartats:
 -	“HISTÒRIA”: Dins d’aquest primer apartat trobarem explicada la història castellera de la ciutat i les seves colles amb imatges incloses que permetin el seu enteniment.
 -	“LES COLLES”: En aquest segon apartat es donarà la opció de reserva de visita guiada al local d’alguna colla castellera, durant un assaig seu i amb un guia que tradueixi i els permeti entendre als sol·licitants entendre el funcionament d’aquesta activitat cultural.
 -	“CONTACTE”: Durant el tercer apartat s’exposaràn la direcció, el numero de telèfon i email de cada colla. I conjuntament es troba l’aplicació d’un mapa per veure la seva ubicació de manera més sencilla.
