@@ -1,6 +1,6 @@
 README PÀGINA WEB ALBA COLL ARGÜESO
 Pàgina web sense GitHub:file:///C:/Users/Usuario/OneDrive/Escritorio/EINES%20WEB/index.html# 
-Pàgina web Github:
+Pàgina web Github: https://albacollarg.github.io/castellstgn/ 
 
 1.	Tema/Motivació:
 PQ fem la web sobre aquest tema, i la relació que crec que té amb la geografia.
