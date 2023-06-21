@@ -1,1 +1,0 @@
-var json_Local_SPSP_2 = {"type":"FeatureCollection","name":"Local_SPSP_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lloc":"Local Castellers SPSP"},"geometry":{"type":"Point","coordinates":[1.253804510415118,41.137974542378949]}}]}

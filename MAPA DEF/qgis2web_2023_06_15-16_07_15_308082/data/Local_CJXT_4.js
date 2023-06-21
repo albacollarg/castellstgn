@@ -1,1 +1,0 @@
-var json_Local_CJXT_4 = {"type":"FeatureCollection","name":"Local_CJXT_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lloc":"Local CJXT"},"geometry":{"type":"Point","coordinates":[1.256748356053678,41.116342946594571]}}]}

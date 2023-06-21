@@ -1,1 +1,0 @@
-var json_Local_XDT_5 = {"type":"FeatureCollection","name":"Local_XDT_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lloc":"Local Xiquets TGN"},"geometry":{"type":"Point","coordinates":[1.254171381405515,41.117336579038664]}}]}

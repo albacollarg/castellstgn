@@ -1,1 +1,0 @@
-var json_Local_XDS_3 = {"type":"FeatureCollection","name":"Local_XDS_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lloc":"Local Xiquets Serrallo"},"geometry":{"type":"Point","coordinates":[1.243458699636059,41.110373697419888]}}]}
